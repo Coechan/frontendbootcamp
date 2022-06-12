@@ -1,0 +1,18 @@
+/* my second css */
+body{
+    background-color: #EFC2CA;
+    color: #F5F5F5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    font-style: italic;
+    
+}
+h1,h2,h3,h4{
+    color:#F5F5F5;
+    font-size: xx-large;
+    font-weight: 800;
+}
+a:link{
+    color:#F5F5F5;
+    
+}
